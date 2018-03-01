@@ -1,0 +1,723 @@
+[
+  {
+    "teamName": "Instructors",
+    "members": [
+      {
+        "name": "Vahid Fazel-Rezai",
+        "username": "vahidfazelrezai"
+      },
+      {
+        "name": "Genevieve Barrons",
+        "username": "genevieve"
+      },
+      {
+        "name": "Philipp Schmidt",
+        "username": "1l2p"
+      },
+      {
+        "name": "Joseph Torres",
+        "username": "Finaris"
+      },
+      {
+        "name": "Christabel Sitienei",
+        "username": "christabel"
+      },
+      {
+        "name": "Sravya Bhamidipati",
+        "username": "sravya"
+      },
+      {
+        "name": "Helen Bang",
+        "username": "hhybang"
+      }
+    ]
+  },
+  {
+    "teamName": "Unique-Learna",
+    "members": [
+      {
+        "name": "Hamze Issa",
+        "username": "Issa"
+      },
+      {
+        "name": "Ahmad Bassam",
+        "username": "Ahmad.Bassam"
+      },
+      {
+        "name": "Amro Aljadaa",
+        "username": "Amr_Aljadaa"
+      },
+       {
+        "name": "Shamekh Al-Suwi",
+        "username": "sh.suwi"
+      }
+    ]
+  },
+  {
+    "teamName": "Pal_Team",
+    "members": [
+      {
+        "name": "Mohammed Owda",
+        "username": "MoeOwda"
+      },
+       {
+        "name": "Majd Owda",
+        "username": "MajdOwda"
+      }
+    ]
+  },
+  {
+    "teamName": "InnoTeam",
+    "members": [
+      {
+        "name": "Baraa Shiboub",
+        "username": "InnoTeam"
+      },
+      {
+        "name": "Shadi Al Masri",
+        "username": ""
+      },
+      {
+        "name": "Hassan Hussieni",
+        "username": ""
+      }
+    ]
+  },
+  {
+    "teamName": "PEDD",
+    "members": [
+      {
+        "name": "Youssef Chamoun",
+        "username": "youssefchamoun"
+      },
+      {
+        "name": "Sabine Chamoun",
+        "username": "sabinechamoun"
+      }
+    ]
+  },
+  {
+    "teamName": "Mutanafas",
+    "members": [
+      {
+        "name": "Raja Younes",
+        "username": "rajayounes"
+      },
+      {
+        "name": "Sarah Abou Chakra",
+        "username": "sabouchakra"
+      },
+      {
+        "name": "Ahmad Gharibeh",
+        "username": "agharibeh"
+      },
+      {
+        "name" : "Adrien Zakar",
+        "username": "apzakar"
+      },
+      {
+        "name": "Saad Malaeb",
+        "username" :"smalaeb" 
+      }
+    ]
+  },
+  {
+    "teamName": "ArabCode",
+    "members": [
+      {
+        "name": "Hadi Aladdin",
+        "username": "hadialaddin"
+      },
+      {
+        "name": "Marwan Aladdin",
+        "username": "marwanaladdin"
+      },
+      {
+        "name": "Khaled AlBulaihed",
+        "username": "khaledalbulaihed"
+      }
+    ]
+  },
+  {
+    "teamName": "Team-Arez",
+    "members": [
+      {
+        "name": "Johny Elia",
+        "username": "JohnyElia"
+      },
+      {
+        "name": "Edmond Riachy",
+        "username": "EdmondRiachy"
+      },
+      {
+        "name": "Anthony Essaye",
+        "username": "anthonyessaye"
+      },
+      {
+        "name": "Garine Pon Dikian",
+        "username": "garine519"
+      }
+    ]
+  },
+  {
+    "teamName": "Discovery",
+    "members": [
+      {
+        "name": "Ilmam Mourtada",
+        "username": "Discovery"
+      },
+      {
+        "name": "Joe Abboud",
+        "username": "joeabboud"
+      }
+    ]
+  },
+  {
+    "teamName": "Team-Aden",
+    "members": [
+      {
+        "name": "Abdalhmeed Osaiweran",
+        "username": "Abdalhmeed"
+      },
+      {
+        "name": "Mohammed sameer alantry",
+        "username": "sameer"
+      },
+      {
+        "name": "ramiz ali mohammed",
+        "username": "ramiz.apk"
+      },
+      {
+        "name": "Heba Alhithmi",
+        "username": "Heboshah"
+      }
+    ]
+  },
+  {
+    "teamName": "ARAM",
+    "members": [
+      {
+        "name": "Ahmed Rabid",
+        "username": "AhmedRobaid"
+      },
+      {
+        "name": "Ali Al-Obal",
+        "username": "ARAM-AliAlobal"
+      },
+      {
+        "name": "Mohammed Al-Dhobai",
+        "username": "thelegendofyemen"
+      },
+      {
+        "name": "Raeed Al-Sabri",
+        "username": "ARAM-RaeedAlsabri"
+      },
+      {
+        "name": "Rasheed Abdullah",
+        "username": "RasheedAbdullah"
+      }
+    ]
+  },
+  {
+    "teamName": "CLAY",
+    "members": [
+      {
+        "name": "Mahmoud Abdelhadi",
+        "username": "mn171"
+      },
+      {
+        "name": "Bashar Hussam Abo Joub",
+        "username": "beshographix"
+      },
+      {
+        "name": "Ayoub Aref AbuAsbeh",
+        "username": "AyoubAref"
+      }
+    ]
+  },
+  {
+    "teamName": "Virtual-Teacher",
+    "members": [
+      {
+        "name": "San Qader",
+        "username": "San"
+      },
+      {
+        "name": "Hakim Al-Khateeb",
+        "username": "Hakeemkhatyb"
+      },
+      {
+        "name": "Allan Saleh",
+        "username": "allan"
+      }
+    ]
+  },
+  {
+    "teamName": "Brain-Tank",
+    "members": [
+      {
+        "name": "Yazan Fanous",
+        "username": "yfanous"
+      },
+      {
+        "name": "Mohammad Tuqan",
+        "username": "mtuqan"
+      }
+    ]
+  },
+  {
+    "teamName": "SyrianGuys",
+    "members": [
+      {
+        "name": "ABEDELJALIL JARJANAZY",
+        "username": "Jalil"
+      },
+      {
+        "name": "M.MALEK BABA",
+        "username": "DRMALEK1997"
+      },
+      {
+        "name": "Hazem Alabiad",
+        "username": "hazem"
+      }
+    ]
+  },
+  {
+    "teamName": "Coffee-Beans",
+    "members": [
+      {
+        "name": "Shereen Messi",
+        "username": "Shereen"
+      },
+      {
+        "name": "Noor Sulaiman",
+        "username": "NoorSulaiman"
+      }
+    ]
+  },
+  {
+    "teamName": "Education-Matcher",
+    "members": [
+      {
+        "name": "Sara Hammoud",
+        "username": "Sara"
+      },
+      {
+        "name": "Nour Kouzayha",
+        "username": "nourkouzayha"
+      },
+      {
+        "name": "Dima Abed",
+        "username": "dimaabed"
+      }
+    ]
+  },
+  {
+    "teamName": "Tech-Wings",
+    "members": [
+      {
+        "name": "Fawaz Alrefaee",
+        "username": "Fawaz2050"
+      },
+      {
+        "name": "Mohammed Aklan",
+        "username": ""
+      }
+    ]
+  },
+  {
+    "teamName": "Martians-Codes",
+    "members": [
+      {
+        "name": "Hasan Beqai",
+        "username": "hasanbeqai"
+      },
+      {
+        "name": "Nadim Ghuneim",
+        "username": "nadim24"
+      },
+      {
+        "name": "Mohammad Al Husein",
+        "username": "zanga"
+      },
+      {
+        "name": "Mohammad Deeb",
+        "username": ""
+      }
+    ]
+  },
+  {
+    "teamName": "Tutorian",
+    "members": [
+      {
+        "name": "Mustafa Shaban",
+        "username": "safi"
+      },
+      {
+        "name": "Hazem Karbouj",
+        "username": "_Hazem_"
+      },
+      {
+        "name": "Hasan Abu Rasheed",
+        "username": "Hasan_AR"
+      }
+    ]
+  },
+  {
+    "teamName": "JUSTLearn",
+    "members": [
+      {
+        "name": "Mohammed Jaber",
+        "username": "justlearn"
+      },
+      {
+        "name": "Wafaa Musallam",
+        "username": "wafa"
+      },
+      {
+        "name": "Yara Kandah",
+        "username": ""
+      },
+      {
+        "name": "Ala''A Al-Theinat",
+        "username": "ahtheinat"
+      },
+      {
+        "name": "Ebtesam Ababneh",
+        "username": ""
+      }
+    ]
+  },
+  {
+    "teamName": "Hikma",
+    "members": [
+      {
+        "name": "Senan Ebrahim",
+        "username": "senane"
+      },
+      {
+        "name": "Maurice Abou Jaoude",
+        "username": "mauriceaj"
+      },
+      {
+        "name": "Hassaan Ebrahim",
+        "username": "hassaane"
+      }
+    ]
+  },
+  {
+    "teamName": "BeirutByByte",
+    "members": [
+      {
+        "name": "Emad Yehya",
+        "username": "emady"
+      },
+      {
+        "name": "Salam El Bsat",
+        "username": "SEBMachine"
+      },
+      {
+        "name": "Ebrahim Karam",
+        "username": "eek05"
+      }
+    ]
+  },
+  {
+    "teamName": "Ibda3",
+    "members": [
+      {
+        "name": "Dani Kiyasseh",
+        "username": "Kiyasseh"
+      },
+      {
+        "name": "Firas Kiyasseh",
+        "username": "Firaskiy"
+      },
+      {
+        "name": "Lama Kiyasseh",
+        "username": "LamaKiy"
+      },
+      {
+        "name": "Basma Alloush",
+        "username": "balloush"
+      }
+    ]
+  },
+  {
+    "teamName": "Day1",
+    "members": [
+      {
+        "name": "Ahmad Ghizzawi",
+        "username": "ahmadghizzawi"
+      },
+      {
+        "name": "Mike Clarke",
+        "username": "clarke"
+      },
+      {
+        "name": "Leen Naffaa",
+        "username": "leennaffaa"
+      },
+      {
+        "name": "Ali Moussawi",
+        "username": "Moussawi7"
+      }
+    ]
+  },
+  {
+    "teamName": "GeoCode",
+    "members": [
+      {
+        "name": "Mohamad Bouzi",
+        "username": "Bouzi"
+      },
+      {
+        "name": "Safa Naasan",
+        "username": "Naasan"
+      },
+      {
+        "name": "Abdulkafi Abdul Samad",
+        "username": "Abdulkafi"
+      }
+    ]
+  },
+  {
+    "teamName":"BitCodes",
+    "members":[
+      {
+        "name": "Amneh Shaban",
+        "username": "amnehshaban"
+      },
+      {
+        "name": "Fadi Al-Masalha",
+        "username": ""
+      }
+    ]
+  },
+  {
+    "teamName":"SAWA",
+    "members": [
+      {
+        "name": "Yaman Shiekh Deia",
+        "username": "yaman91"
+      },
+      {
+        "name": "Firas Ali",
+        "username": "ferasforit"
+      },
+      {
+        "name": "Saif Haobsh",
+        "username": "shaobsh"
+      },
+      {
+        "name": "Mohammad Al-hd",
+        "username": "mohd1994hd"
+      },
+      {
+        "name": "Rania Baltagi",
+        "username": "Rania"
+      }
+    ]
+  },
+  {
+    "teamName": "tech-teacher",
+    "members": [
+      {
+        "name": "Warin Ali",
+        "username": "Warin"
+      },
+      {
+        "name": "Sabat Ali",
+        "username": ""
+      },
+      {
+        "name": "Laween Ali",
+        "username": ""
+      },
+      {
+        "name": "Ali Lmustarehe",
+        "username": ""
+      },
+      {
+        "name": "Salar berfikany",
+        "username": ""
+      }
+    ]
+  },
+  {
+    "teamName": "Edutek",
+    "members": [
+      {
+        "name": "Tarek Hawasli",
+        "username": "thawasli"
+      },
+      {
+        "name": "Mariam Haidar",
+        "username": "MariamHaidar"
+      },
+      {
+        "name": "Husam Shamseddin",
+        "username": ""
+      }
+    ]
+  },
+  {
+    "teamName": "To-Infinty-And-Beyond",
+    "members": [
+      {
+        "name": "Kinda Altarbouch",
+        "username": "Kinda"
+      },
+      {
+        "name": "Basel Salahieh",
+        "username": "Basel"
+      },
+      {
+        "name": "Mazen Soufi",
+        "username": "MazenSo"
+      },
+      {
+        "name": "Amer Rez",
+        "username": "arez"
+      }
+    ]
+  },
+  {
+    "teamName": "iLearnCamp",
+    "members": [
+      {
+        "name": "Mohamad Sawas",
+        "username": "mhdsws"
+      },
+      {
+        "name": "Molham Al-Maleh",
+        "username": "molhamaleh"
+      },
+      {
+        "name": "Alia Hamwi",
+        "username": "3aliahamwi"
+      }
+    ]
+  },
+  {
+    "teamName": "Amal",
+    "members": [
+      {
+        "name": "Habib Nassar",
+        "username": "HabibNassar"
+      },
+      {
+        "name": "Ibrahim Maan",
+        "username": "Ibrahim"
+      },
+      {
+        "name": "Zaid El Shair",
+        "username": "sha3ir"
+      }
+    ]
+  },
+  {
+    "teamName":"futuristic-school",
+    "members": [
+      {
+        "name": "Yaser Alamin",
+        "username": "YaserAlamin"
+      },
+      {
+        "name": "Abdullah Alamin",
+        "username": "Abdu"
+      }
+    ]
+  },
+  {
+    "teamName": "House.of.wisdom",
+    "members": [
+      {
+        "name": "Khalil Almadani",
+        "username": "Khalil-Almadani"
+      }
+    ]
+  },
+  {
+    "teamName": "The-Alternative",
+    "members": [
+      {
+        "name": "Patrick Habib",
+        "username": "PatrickHabib"
+      },
+      {
+        "name": "Florian Muller",
+        "username": "FlorianMuller"
+      },
+      {
+        "name": "Yorgui Beylouni",
+        "username": "YorguiBeylouni"
+      }
+    ]
+  },
+  {
+    "teamName":"Let-US-C",
+    "members": [
+      {
+        "name": "Reem Ali Ahmad",
+        "username": "reem"
+      }
+    ]
+  },
+  {
+    "teamName": "taw",
+    "members": [
+      {
+        "name": "Waed Albdour",
+        "username": "waedalbdour"
+      },
+      {
+        "name": "Ala'aa Daasen",
+        "username": "alaamohamed"
+      },
+      {
+        "name": "Tasneem Moneb Alaqileh",
+        "username": "tasneemmoneb"
+      }
+    ]
+  },
+  {
+    "teamName": "Almadrasa",
+    "members": [
+      {
+        "name": "Muataz Aziz",
+        "username": "MuatazAziz"
+      },
+      {
+        "name": "Mohammed Abdulkereem",
+        "username": "mohammed-io"
+      },
+      {
+          "name": "Yardagan Al Hamed",
+          "username": "Goory"
+      }
+    ]
+  },
+  {
+    "teamName": "Ejad",
+    "members": [
+      {
+        "name": "Mohamed Kawsara",
+        "username": "mkwsra"
+      },
+      {
+        "name": "Suheyl Kawsara",
+        "username": "msk286"
+      }
+    ]
+  },
+  {
+    "teamName": "RBK",
+    "members": [
+      {
+        "name": "Rana Kelani",
+        "username": "rana"
+      }
+    ]
+  }
+]
