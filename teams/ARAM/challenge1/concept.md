@@ -27,7 +27,7 @@ The suggested chatbot will provide a conversational service for helping students
 
 The suggested chatbot targets the students who are planning to enroll universities.
 <<<<<<< HEAD
-The user can interact with the chatbot using text messages. The chatbot will offer the user the services it can do to choose from. The chatbot will respond according to the keywords in the user input. Also the chatbot may show multiple choice modules, yes/no questions… etc.
+The user can interact with the chatbot using text messages. The chatbot will offer the user the services it can do to choose from. The chatbot will respond according to the keywords in the user input. Also the chatbot may show multiple choice modules, yes/no questionsï¿½ etc.
 =======
 The user can interact with the chatbot using text messages. The chatbot will offer the user the services it can do to choose from. The chatbot will respond according to the keywords in the user input. Also the chatbot may show multiple choice modules, yes/no questionsâ€¦ etc.
 >>>>>>> 28821c54397d0c0b97e07116d66ff3efba4b9198
